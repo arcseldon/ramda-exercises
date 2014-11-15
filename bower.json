@@ -1,0 +1,27 @@
+{
+  "name": "ramda-exercises",
+  "version": "0.0.0",
+  "authors": [
+    "arcseldon <arcseldon@gmail.com>"
+  ],
+  "description": "ramda exercises",
+  "main": "lib/index.html",
+  "keywords": [
+    "ramda",
+    "functional"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "qunit": "~1.15.0",
+    "ramda": "~0.7.2"
+  }
+}
